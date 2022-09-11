@@ -1,5 +1,5 @@
 body{
-    background-image:-webkit-linear-gradient(top,#4790cc,#2eb8e2);
+    background-image:-webkit-linear-gradient(top,#dca8ae,#722F37);
 }
 
 p{
@@ -8,7 +8,19 @@ p{
 }
 
 .card{
-    background-color: rgb(243, 232, 232);
+    background-color: rgba(116, 47, 55, 1);
+}
+
+.cv{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cv a{
+    padding:15px;
+    background-color:#722F37;
+    font-size:15px;
 }
 
 .background-color-layer {

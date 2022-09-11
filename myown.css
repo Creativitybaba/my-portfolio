@@ -12,12 +12,17 @@ p{
     background-color: rgba(116, 47, 55, 1);
 }
 
+h2, h3{
+    color:white;
+}
+
 .cv{
     display:flex;
     justify-content:center;
 }
 
 .cv a{
+    margin:5px;
     padding:15px;
     background-color:#722F37;
     font-size:15px;
